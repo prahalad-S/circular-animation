@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #222;
+    background: rgb(190, 102, 102);
     overflow: hidden;
     color: #fff;
 }
@@ -64,7 +64,7 @@ body {
     background: rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     font-size: 20px;
-    color: #fff;
+    color: rgb(10, 10, 161);
     border: none;
     padding: 10px 15px;
     cursor: pointer;
